@@ -20,12 +20,15 @@ Building real-world projects
 Develop strong programming skills through consistent project building and hands-on practice.
 
 ---
+# Projects
 
-## Projects coming soon
+[![File Organizer](https://img.shields.io/badge/File%20Organizer-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas/Dev)
 
-File Organizer Script  
-Automation Tools  
-System Utilities  
+[![Automation Tools](https://img.shields.io/badge/Automation%20Tools-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
+
+[![System Utilities](https://img.shields.io/badge/System%20Utilities-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
+
+[![API Integrations](https://img.shields.io/badge/API%20Integrations-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
 
 ---
 
