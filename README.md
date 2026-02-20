@@ -1,50 +1,43 @@
-# Esteban Rivas
+# Esteban Rivs
 
-Python Developer in progress  
-Focused on building real projects and automation tools  
-Future Cybersecurity Specialist  
+Systems-oriented developer  
+Python automation tool builder  
+Cybersecurity path  
 
 ---
 
-## Current Focus
+## Projects
 
-Python programming  
+[![File Organizer](https://img.shields.io/badge/File%20Organizer-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs/Dev)
+[![Automation Tools](https://img.shields.io/badge/Automation%20Tools-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
+  
+[![System Utilities](https://img.shields.io/badge/System%20Utilities-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
+[![API Integrations](https://img.shields.io/badge/API%20Integrations-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivs)
+
+---
+
+## Systems
+
 Automation scripts  
-Learning programming fundamentals  
-Building real-world projects  
-
----
-
-## Current Goal
-
-Develop strong programming skills through consistent project building and hands-on practice.
-
----
-# Projects
-
-[![File Organizer](https://img.shields.io/badge/File%20Organizer-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas/Dev)
-
-[![Automation Tools](https://img.shields.io/badge/Automation%20Tools-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
-
-[![System Utilities](https://img.shields.io/badge/System%20Utilities-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
-
-[![API Integrations](https://img.shields.io/badge/API%20Integrations-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EstebanRivas)
+API integrations  
+System utilities  
+Tool development  
 
 ---
 
 ## Environment
 
-VS Code  
-Windows  
+Python  
+Git  
+Linux (learning)  
+APIs  
+Automation systems  
 
 ---
 
-## Profile
+## Focus
 
-Actively learning and building projects to transition into professional programming and cybersecurity.
-
----
-
-## Contact
-
-GitHub: https://github.com/estebanrivasmolina02-hue
+Building real-world automation tools  
+Developing system utilities  
+Working with APIs and integrations  
+Cybersecurity-oriented systems development  
